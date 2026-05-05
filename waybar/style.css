@@ -1,0 +1,141 @@
+/* =============================================================================
+ * Configurações Globais
+ * =========================================================================== */
+* {
+    font-family: "JetBrainsMono Nerd Font", sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    border: none;
+    border-radius: 0;
+    min-height: 0;
+    margin: 0;
+    padding: 0;
+}
+
+/* Fundo transparente da barra principal para o efeito flutuante */
+window#waybar {
+    background: transparent;
+}
+
+/* =============================================================================
+ * Módulos Flutuantes (Estilo Pílula)
+ * =========================================================================== */
+.modules-left,
+.modules-center,
+.modules-right {
+    background-color: #000000;
+    /* Fundo Preto Profundo (True Black) */
+    border: 1px solid #1a1a1a;
+    /* Borda super discreta para separar do wallpaper */
+    border-radius: 24px;
+    /* Arredondamento da pílula */
+    margin: 6px 10px;
+    /* Distância das bordas da tela */
+    padding: 4px 16px;
+    /* Espaçamento interno da pílula */
+}
+
+/* =============================================================================
+ * Áreas de Trabalho (Workspaces)
+ * =========================================================================== */
+#workspaces button {
+    color: #AAAAAA;
+    /* Cor inativa (Cinza escuro) */
+    background: transparent;
+    padding: 0 8px;
+    margin: 0 2px;
+    border-radius: 12px;
+    transition: all 0.3s ease-in-out;
+}
+
+#workspaces button.active {
+    color: #FFFFFF;
+    /* Cor ativa (Branco Puro) */
+}
+
+#workspaces button:hover {
+    color: #FFD700;
+    /* Fica dourado ao passar o mouse */
+    background: rgba(255, 215, 0, 0.1);
+}
+
+/* =============================================================================
+ * Módulos de Texto e Ícones Padrão
+ * =========================================================================== */
+#window {
+    color: #E0E0E0;
+    margin-left: 12px;
+    font-weight: normal;
+}
+
+#clock,
+#backlight,
+#network,
+#bluetooth,
+#pulseaudio {
+    color: #FFFFFF;
+    margin: 0 10px;
+}
+
+/* Efeito ao mutar o som (Pulseaudio Muted) */
+#pulseaudio.muted {
+    color: #555555;
+}
+
+/* =============================================================================
+ * Tooltips (As caixinhas de informação ao passar o mouse)
+ * =========================================================================== */
+tooltip {
+    background: #000000;
+    border: 1px solid #FFD700;
+    /* Borda dourada combinando com o player */
+    border-radius: 12px;
+}
+
+tooltip label {
+    color: #FFFFFF;
+    padding: 4px;
+}
+
+/* =============================================================================
+ * Reprodutor de Mídia (MPRIS) e Animações
+ * =========================================================================== */
+
+#mpris {
+    margin: 0 10px;
+}
+
+/* Cria a animação de "respiração" do brilho dourado */
+@keyframes pulse-gold {
+    0% {
+        color: #FFD700;
+        text-shadow: 0px 0px 2px rgba(255, 215, 0, 0.3);
+    }
+
+    50% {
+        color: #FFF2A8;
+        /* Um dourado um pouco mais claro e brilhante */
+        text-shadow: 0px 0px 12px rgba(255, 215, 0, 0.9);
+    }
+
+    100% {
+        color: #FFD700;
+        text-shadow: 0px 0px 2px rgba(255, 215, 0, 0.3);
+    }
+}
+
+/* Aplica a animação APENAS quando a música está tocando */
+#mpris.playing {
+    animation: pulse-gold 2.5s ease-in-out infinite;
+}
+
+/* Quando pausado, tira o brilho e deixa a cor mais "apagada" (Cinza/Dourado escuro) */
+#mpris.paused {
+    animation: none;
+    color: #887A2E;
+    text-shadow: none;
+    transition: all 0.5s ease;
+}
+
+/* Quando não tem nada aberto/tocando */
+#mpris.stopped {}

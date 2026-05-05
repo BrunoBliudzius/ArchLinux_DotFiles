@@ -1,0 +1,69 @@
+{
+    "layer": "top",
+    "position": "top",
+    "height": 30,
+    "spacing": 6,
+    "modules-left": [
+        "hyprland/workspaces",
+        "hyprland/window"
+    ],
+    "modules-center": [
+        "mpris",
+        "clock"
+    ],
+    "modules-right": [
+        "backlight",
+        "network",
+        "bluetooth",
+        "pulseaudio"
+    ],
+    "hyprland/workspaces": {
+        "format": "{name}"
+    },
+    "hyprland/window": {
+        "format": "{}",
+        "max-length": 40
+    },
+    "mpris": {
+        "format": "{player_icon} {title}",
+        "max-length": 30
+    },
+    "clock": {
+        "format": "{:%H:%M}",
+        "tooltip-format": "<tt><small>{calendar}</small></tt>",
+        "on-click": "kitty -e calcurse"
+    },
+    "backlight": {
+        "format": "☀ {percent}%",
+        "on-scroll-up": "swayosd-client --brightness +5",
+        "on-scroll-down": "swayosd-client --brightness -5",
+        "on-click": "swayosd-client --brightness +10",
+        "on-click-right": "swayosd-client --brightness -10"
+    },
+    "network": {
+        "format-wifi": "",
+        "format-ethernet": "ETH",
+        "format-disconnected": "OFF",
+        "on-click": "networkmanager_dmenu"
+    },
+    "bluetooth": {
+        "format": "",
+        "format-disabled": "OFF",
+        "on-click": "blueman-manager"
+    },
+    "pulseaudio": {
+        "format": "{icon} {volume}%",
+        "format-muted": " MUTE",
+        "format-icons": {
+            "default": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "on-click": "pavucontrol",
+        "on-click-right": "swayosd-client --output-volume mute-toggle",
+        "on-scroll-up": "swayosd-client --output-volume raise",
+        "on-scroll-down": "swayosd-client --output-volume lower"
+    }
+}
