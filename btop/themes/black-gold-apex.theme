@@ -1,0 +1,68 @@
+# Tema Pure Black & Gold - Estruturado e Iluminado
+
+# Fundo principal (Preto absoluto)
+theme[main_bg]="#000000"
+
+# Texto principal (Branco puro para leitura perfeita)
+theme[main_fg]="#FFFFFF"
+
+# Títulos em Ouro forte para guiar os olhos
+theme[title]="#D4AF37"
+
+# Destaques e item selecionado
+theme[hi_fg]="#D4AF37"
+theme[selected_bg]="#D4AF37"
+theme[selected_fg]="#000000"
+
+# Textos secundários (Cinza médio para não sumirem no escuro)
+theme[inactive_fg]="#777777"
+theme[graph_text]="#999999"
+
+# Fundo dos medidores (Cinza bem escuro para mostrar a barra vazia)
+theme[meter_bg]="#1A1A1A"
+theme[proc_misc]="#D4AF37"
+
+# BORDAS DE VOLTA: Cinza chumbo elegante para demarcar os espaços sem ofuscar
+theme[cpu_box]="#333333"
+theme[mem_box]="#333333"
+theme[net_box]="#333333"
+theme[proc_box]="#333333"
+theme[div_line]="#333333"
+
+# -- GRADIENTES MAIS BRILHANTES --
+# Começam em um dourado escuro visível e vão até um dourado bem claro
+
+# Temperatura e CPU
+theme[temp_start]="#8C7323"
+theme[temp_mid]="#D4AF37"
+theme[temp_end]="#FFEA99"
+
+theme[cpu_start]="#8C7323"
+theme[cpu_mid]="#D4AF37"
+theme[cpu_end]="#FFEA99"
+
+# Memória (Tons mais visíveis)
+theme[free_start]="#222222"
+theme[free_mid]="#444444"
+theme[free_end]="#666666"
+
+theme[cached_start]="#333333"
+theme[cached_mid]="#555555"
+theme[cached_end]="#888888"
+
+theme[available_start]="#8C7323"
+theme[available_mid]="#D4AF37"
+theme[available_end]="#FFEA99"
+
+theme[used_start]="#8C7323"
+theme[used_mid]="#D4AF37"
+theme[used_end]="#FFEA99"
+
+# Rede (Download = Prata brilhante, Upload = Ouro vibrante)
+theme[download_start]="#555555"
+theme[download_mid]="#AAAAAA"
+theme[download_end]="#FFFFFF"
+
+theme[upload_start]="#8C7323"
+theme[upload_mid]="#D4AF37"
+theme[upload_end]="#FFEA99"

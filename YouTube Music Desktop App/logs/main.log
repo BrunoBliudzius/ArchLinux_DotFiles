@@ -1,0 +1,672 @@
+[2026-05-02 10:24:35.944][main][info] Application launched
+[2026-05-02 10:24:35.984][main][info] Application set as default protcol client for 'ytmd'
+[2026-05-02 10:24:36.011][main][info] Created memory store
+[2026-05-02 10:24:36.028][main][info] Performing store migration from 0.0.0 to >=2.0.0
+[2026-05-02 10:24:36.033][main][info] Performing store migration from >=2.0.0 to >=2.0.1
+[2026-05-02 10:24:36.035][main][info] Performing store migration from >=2.0.1 to >=2.0.7
+[2026-05-02 10:24:36.040][main][info] Created electron store
+[2026-05-02 10:24:36.286][main][info] Application ready
+[2026-05-02 10:24:36.296][main][info] Setup IPC handlers
+[2026-05-02 10:24:36.299][main][info] Setup permission handlers
+[2026-05-02 10:24:36.299][main][info] Unregistered shortcuts
+[2026-05-02 10:24:36.300][main][info] Registered shortcuts
+[2026-05-02 10:24:36.304][main][info] Created tray icon
+[2026-05-02 10:24:36.329][main][info] Created main window
+[2026-05-02 10:24:36.334][main][info] Created YTM view
+[2026-05-02 10:24:36.334][main][info] Setup taskbar features
+[2026-05-02 10:24:36.334][main][info] Integration update: Zoom Factor
+[2026-05-02 10:24:36.334][main][info] Starting enabled integrations
+[2026-05-02 10:24:43.451][main][warn] (electron) 'console-message' arguments are deprecated and will be removed. Please use Event<WebContentsConsoleMessageEventParams> object instead.
+[2026-05-02 10:24:43.452][renderer][info] LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.
+[2026-05-02 10:24:56.588][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-02 10:24:56.589][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-02 10:24:56.589][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-02 10:25:13.799][main][info] Integration enabled: Custom CSS
+[2026-05-02 10:25:16.552][main][info] Integration disabled: Custom CSS
+[2026-05-02 10:25:18.385][main][info] Integration enabled: Custom CSS
+[2026-05-02 10:25:24.713][main][info] Integration disabled: Custom CSS
+[2026-05-02 10:25:39.369][main][info] Application quitting
+
+
+[2026-05-02 10:25:48.225][main][info] Application launched
+[2026-05-02 10:25:48.255][main][info] Application set as default protcol client for 'ytmd'
+[2026-05-02 10:25:48.283][main][info] Created memory store
+[2026-05-02 10:25:48.291][main][info] Created electron store
+[2026-05-02 10:25:48.367][main][info] Application ready
+[2026-05-02 10:25:48.371][main][info] Setup IPC handlers
+[2026-05-02 10:25:48.373][main][info] Setup permission handlers
+[2026-05-02 10:25:48.374][main][info] Unregistered shortcuts
+[2026-05-02 10:25:48.374][main][info] Registered shortcuts
+[2026-05-02 10:25:48.378][main][info] Created tray icon
+[2026-05-02 10:25:48.402][main][info] Created main window
+[2026-05-02 10:25:48.407][main][info] Created YTM view
+[2026-05-02 10:25:48.420][main][info] Setup taskbar features
+[2026-05-02 10:25:48.421][main][info] Integration update: Zoom Factor
+[2026-05-02 10:25:48.421][main][info] Starting enabled integrations
+[2026-05-02 10:25:52.177][main][warn] (electron) 'console-message' arguments are deprecated and will be removed. Please use Event<WebContentsConsoleMessageEventParams> object instead.
+[2026-05-02 10:25:52.177][renderer][info] LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.
+[2026-05-02 10:26:05.862][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-02 10:26:05.862][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-02 10:26:05.863][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-02 10:27:09.145][renderer][info] LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.
+[2026-05-02 10:27:18.504][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-02 10:27:18.505][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-02 10:27:18.505][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-02 10:27:59.622][main][info] Integration enabled: Ratio volume
+[2026-05-02 10:28:01.426][main][info] Integration disabled: Ratio volume
+[2026-05-02 10:28:14.051][main][info] Integration enabled: Ratio volume
+[2026-05-02 10:28:15.084][main][info] Application quitting
+
+
+[2026-05-02 10:28:15.449][main][info] Application launched
+[2026-05-02 10:28:15.483][main][info] Application set as default protcol client for 'ytmd'
+[2026-05-02 10:28:15.512][main][info] Created memory store
+[2026-05-02 10:28:15.520][main][info] Created electron store
+[2026-05-02 10:28:15.604][main][info] Application ready
+[2026-05-02 10:28:15.608][main][info] Setup IPC handlers
+[2026-05-02 10:28:15.611][main][info] Setup permission handlers
+[2026-05-02 10:28:15.612][main][info] Unregistered shortcuts
+[2026-05-02 10:28:15.612][main][info] Registered shortcuts
+[2026-05-02 10:28:15.617][main][info] Created tray icon
+[2026-05-02 10:28:15.640][main][info] Created main window
+[2026-05-02 10:28:15.647][main][info] Created YTM view
+[2026-05-02 10:28:15.654][main][info] Setup taskbar features
+[2026-05-02 10:28:15.654][main][info] Integration update: Zoom Factor
+[2026-05-02 10:28:15.654][main][info] Starting enabled integrations
+[2026-05-02 10:28:15.654][main][info] Integration enabled: Ratio volume
+[2026-05-02 10:28:19.317][main][warn] (electron) 'console-message' arguments are deprecated and will be removed. Please use Event<WebContentsConsoleMessageEventParams> object instead.
+[2026-05-02 10:28:19.318][renderer][info] LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.
+[2026-05-02 10:28:27.504][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-02 10:28:27.548][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-02 10:28:27.548][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-02 10:30:02.665][main][info] Integration enabled: Custom CSS
+[2026-05-02 10:38:09.788][main][info] Application quitting
+
+
+[2026-05-02 10:38:13.511][main][info] Application launched
+[2026-05-02 10:38:13.545][main][info] Application set as default protcol client for 'ytmd'
+[2026-05-02 10:38:13.573][main][info] Created memory store
+[2026-05-02 10:38:13.581][main][info] Created electron store
+[2026-05-02 10:38:13.653][main][info] Application ready
+[2026-05-02 10:38:13.657][main][info] Setup IPC handlers
+[2026-05-02 10:38:13.659][main][info] Setup permission handlers
+[2026-05-02 10:38:13.659][main][info] Unregistered shortcuts
+[2026-05-02 10:38:13.660][main][info] Registered shortcuts
+[2026-05-02 10:38:13.665][main][info] Created tray icon
+[2026-05-02 10:38:13.693][main][info] Created main window
+[2026-05-02 10:38:13.701][main][info] Created YTM view
+[2026-05-02 10:38:13.702][main][info] Setup taskbar features
+[2026-05-02 10:38:13.702][main][info] Integration update: Zoom Factor
+[2026-05-02 10:38:13.702][main][info] Starting enabled integrations
+[2026-05-02 10:38:13.703][main][info] Integration enabled: Custom CSS
+[2026-05-02 10:38:13.703][main][info] Integration enabled: Ratio volume
+[2026-05-02 10:38:17.508][main][warn] (electron) 'console-message' arguments are deprecated and will be removed. Please use Event<WebContentsConsoleMessageEventParams> object instead.
+[2026-05-02 10:38:17.509][renderer][info] LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.
+[2026-05-02 10:38:47.165][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-02 10:38:47.166][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-02 10:38:47.166][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-02 10:40:16.661][main][info] Application quitting
+
+
+[2026-05-02 10:40:18.885][main][info] Application launched
+[2026-05-02 10:40:18.915][main][info] Application set as default protcol client for 'ytmd'
+[2026-05-02 10:40:18.944][main][info] Created memory store
+[2026-05-02 10:40:18.951][main][info] Created electron store
+[2026-05-02 10:40:19.016][main][info] Application ready
+[2026-05-02 10:40:19.020][main][info] Setup IPC handlers
+[2026-05-02 10:40:19.022][main][info] Setup permission handlers
+[2026-05-02 10:40:19.023][main][info] Unregistered shortcuts
+[2026-05-02 10:40:19.024][main][info] Registered shortcuts
+[2026-05-02 10:40:19.028][main][info] Created tray icon
+[2026-05-02 10:40:19.052][main][info] Created main window
+[2026-05-02 10:40:19.057][main][info] Created YTM view
+[2026-05-02 10:40:19.057][main][info] Setup taskbar features
+[2026-05-02 10:40:19.058][main][info] Integration update: Zoom Factor
+[2026-05-02 10:40:19.058][main][info] Starting enabled integrations
+[2026-05-02 10:40:19.058][main][info] Integration enabled: Custom CSS
+[2026-05-02 10:40:19.058][main][info] Integration enabled: Ratio volume
+[2026-05-02 10:40:22.802][main][warn] (electron) 'console-message' arguments are deprecated and will be removed. Please use Event<WebContentsConsoleMessageEventParams> object instead.
+[2026-05-02 10:40:22.803][renderer][info] LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.
+[2026-05-02 10:41:07.524][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-02 10:41:07.525][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-02 10:41:07.525][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-02 10:42:19.599][main][info] Application quitting
+
+
+[2026-05-02 10:42:21.791][main][info] Application launched
+[2026-05-02 10:42:21.822][main][info] Application set as default protcol client for 'ytmd'
+[2026-05-02 10:42:21.853][main][info] Created memory store
+[2026-05-02 10:42:21.860][main][info] Created electron store
+[2026-05-02 10:42:21.928][main][info] Application ready
+[2026-05-02 10:42:21.932][main][info] Setup IPC handlers
+[2026-05-02 10:42:21.934][main][info] Setup permission handlers
+[2026-05-02 10:42:21.935][main][info] Unregistered shortcuts
+[2026-05-02 10:42:21.935][main][info] Registered shortcuts
+[2026-05-02 10:42:21.939][main][info] Created tray icon
+[2026-05-02 10:42:21.964][main][info] Created main window
+[2026-05-02 10:42:21.969][main][info] Created YTM view
+[2026-05-02 10:42:21.969][main][info] Setup taskbar features
+[2026-05-02 10:42:21.969][main][info] Integration update: Zoom Factor
+[2026-05-02 10:42:21.970][main][info] Starting enabled integrations
+[2026-05-02 10:42:21.970][main][info] Integration enabled: Custom CSS
+[2026-05-02 10:42:21.970][main][info] Integration enabled: Ratio volume
+[2026-05-02 10:42:25.581][main][warn] (electron) 'console-message' arguments are deprecated and will be removed. Please use Event<WebContentsConsoleMessageEventParams> object instead.
+[2026-05-02 10:42:25.581][renderer][info] LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.
+[2026-05-02 10:43:00.230][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-02 10:43:00.232][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-02 10:43:00.233][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-02 10:44:37.708][main][error] Electron event App#child-process-gone observed {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+[2026-05-02 11:29:17.066][main][info] Application launched
+[2026-05-02 11:29:17.100][main][info] Application set as default protcol client for 'ytmd'
+[2026-05-02 11:29:17.127][main][info] Created memory store
+[2026-05-02 11:29:17.134][main][info] Created electron store
+[2026-05-02 11:29:17.208][main][info] Application ready
+[2026-05-02 11:29:17.212][main][info] Setup IPC handlers
+[2026-05-02 11:29:17.214][main][info] Setup permission handlers
+[2026-05-02 11:29:17.215][main][info] Unregistered shortcuts
+[2026-05-02 11:29:17.216][main][info] Registered shortcuts
+[2026-05-02 11:29:17.220][main][info] Created tray icon
+[2026-05-02 11:29:17.253][main][info] Created main window
+[2026-05-02 11:29:17.261][main][info] Created YTM view
+[2026-05-02 11:29:17.262][main][info] Setup taskbar features
+[2026-05-02 11:29:17.262][main][info] Integration update: Zoom Factor
+[2026-05-02 11:29:17.263][main][info] Starting enabled integrations
+[2026-05-02 11:29:17.264][main][info] Integration enabled: Custom CSS
+[2026-05-02 11:29:17.265][main][info] Integration enabled: Ratio volume
+[2026-05-02 11:29:18.340][main][warn] (electron) 'console-message' arguments are deprecated and will be removed. Please use Event<WebContentsConsoleMessageEventParams> object instead.
+[2026-05-02 11:29:18.341][renderer][info] LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.
+[2026-05-02 11:31:27.682][main][info] Application launched
+[2026-05-02 11:31:27.687][main][info] Handling protocol url --enable-sandbox
+[2026-05-02 11:33:05.388][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-02 11:33:05.389][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-02 11:33:05.390][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-02 11:33:45.181][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 11:41:13.034][renderer][info] manipulated volume from 1.00 to   1.00 0
+[2026-05-02 11:45:16.630][renderer][info] manipulated volume from 1.00 to   1.00 0
+[2026-05-02 11:50:05.788][renderer][info] manipulated volume from 1.00 to   1.00 0
+[2026-05-02 11:58:26.558][renderer][info] manipulated volume from 1.00 to   1.00 0
+[2026-05-02 12:05:07.469][renderer][info] manipulated volume from 1.00 to   1.00 0
+[2026-05-02 12:07:58.162][renderer][info] manipulated volume from 1.00 to   1.00 0
+[2026-05-02 12:15:12.039][main][info] Application quitting
+
+
+[2026-05-02 21:13:19.490][main][info] Application launched
+[2026-05-02 21:13:19.540][main][info] Application set as default protcol client for 'ytmd'
+[2026-05-02 21:13:19.577][main][info] Created memory store
+[2026-05-02 21:13:19.588][main][info] Created electron store
+[2026-05-02 21:13:19.733][main][info] Application ready
+[2026-05-02 21:13:19.739][main][info] Setup IPC handlers
+[2026-05-02 21:13:19.744][main][info] Setup permission handlers
+[2026-05-02 21:13:19.745][main][info] Unregistered shortcuts
+[2026-05-02 21:13:19.746][main][info] Registered shortcuts
+[2026-05-02 21:13:19.754][main][info] Created tray icon
+[2026-05-02 21:13:19.805][main][info] Created main window
+[2026-05-02 21:13:19.816][main][info] Created YTM view
+[2026-05-02 21:13:19.817][main][info] Setup taskbar features
+[2026-05-02 21:13:19.817][main][info] Integration update: Zoom Factor
+[2026-05-02 21:13:19.818][main][info] Starting enabled integrations
+[2026-05-02 21:13:19.822][main][info] Integration enabled: Custom CSS
+[2026-05-02 21:13:19.823][main][info] Integration enabled: Ratio volume
+[2026-05-02 21:13:20.822][main][warn] (electron) 'console-message' arguments are deprecated and will be removed. Please use Event<WebContentsConsoleMessageEventParams> object instead.
+[2026-05-02 21:13:20.823][renderer][info] LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.
+[2026-05-02 21:13:31.478][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-02 21:13:32.187][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-02 21:13:32.188][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-02 21:13:47.600][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:27:39.111][main][info] Application launched
+[2026-05-02 21:27:39.161][main][info] Application set as default protcol client for 'ytmd'
+[2026-05-02 21:27:39.199][main][info] Created memory store
+[2026-05-02 21:27:39.215][main][info] Created electron store
+[2026-05-02 21:27:39.378][main][info] Application ready
+[2026-05-02 21:27:39.385][main][info] Setup IPC handlers
+[2026-05-02 21:27:39.389][main][info] Setup permission handlers
+[2026-05-02 21:27:39.390][main][info] Unregistered shortcuts
+[2026-05-02 21:27:39.391][main][info] Registered shortcuts
+[2026-05-02 21:27:39.398][main][info] Created tray icon
+[2026-05-02 21:27:39.442][main][info] Created main window
+[2026-05-02 21:27:39.453][main][info] Created YTM view
+[2026-05-02 21:27:39.454][main][info] Setup taskbar features
+[2026-05-02 21:27:39.454][main][info] Integration update: Zoom Factor
+[2026-05-02 21:27:39.454][main][info] Starting enabled integrations
+[2026-05-02 21:27:39.457][main][info] Integration enabled: Custom CSS
+[2026-05-02 21:27:39.457][main][info] Integration enabled: Ratio volume
+[2026-05-02 21:27:40.461][main][warn] (electron) 'console-message' arguments are deprecated and will be removed. Please use Event<WebContentsConsoleMessageEventParams> object instead.
+[2026-05-02 21:27:40.462][renderer][info] LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.
+[2026-05-02 21:27:53.125][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-02 21:27:53.268][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-02 21:27:53.269][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-02 21:27:58.633][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:27:58.727][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:28:04.430][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:28:04.644][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:28:08.194][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:29:08.371][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:30:08.568][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:31:08.693][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:31:34.518][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:31:34.732][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:31:34.786][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:31:34.799][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:31:34.811][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:31:34.847][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:31:34.859][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:31:34.868][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:31:34.885][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:31:34.895][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:31:34.947][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:31:34.958][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:31:34.969][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:31:34.979][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:31:44.280][renderer][info] manipulated volume from 1.00 to   1.00 0
+[2026-05-02 21:35:12.277][renderer][info] manipulated volume from 1.00 to   1.00 0
+[2026-05-02 21:35:14.899][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:35:14.959][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:35:14.968][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:35:14.997][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:35:15.010][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:35:15.024][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:35:15.035][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:35:15.066][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:35:17.093][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:35:25.616][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:35:25.624][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:35:25.633][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:35:25.643][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:35:25.652][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:35:25.663][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:35:28.788][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:35:28.798][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:35:28.806][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:35:40.541][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:35:40.549][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:35:40.557][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:35:40.565][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:35:47.904][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:35:55.393][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:36:17.241][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:36:58.722][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:36:58.844][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 21:43:18.370][renderer][info] manipulated volume from 1.00 to   1.00 0
+[2026-05-02 21:46:31.227][renderer][info] manipulated volume from 1.00 to   1.00 0
+[2026-05-02 21:56:19.327][renderer][info] manipulated volume from 0.60 to   0.84 0
+[2026-05-02 22:06:44.111][renderer][info] manipulated volume from 1.00 to   1.00 0
+[2026-05-02 22:18:14.259][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-02 22:25:54.829][main][info] Application quitting
+
+
+[2026-05-03 07:21:24.697][main][info] Application launched
+[2026-05-03 07:21:24.740][main][info] Application set as default protcol client for 'ytmd'
+[2026-05-03 07:21:24.774][main][info] Created memory store
+[2026-05-03 07:21:24.785][main][info] Created electron store
+[2026-05-03 07:21:25.136][main][info] Application ready
+[2026-05-03 07:21:25.142][main][info] Setup IPC handlers
+[2026-05-03 07:21:25.145][main][info] Setup permission handlers
+[2026-05-03 07:21:25.146][main][info] Unregistered shortcuts
+[2026-05-03 07:21:25.146][main][info] Registered shortcuts
+[2026-05-03 07:21:25.155][main][info] Created tray icon
+[2026-05-03 07:21:25.200][main][info] Created main window
+[2026-05-03 07:21:25.212][main][info] Created YTM view
+[2026-05-03 07:21:25.212][main][info] Setup taskbar features
+[2026-05-03 07:21:25.213][main][info] Integration update: Zoom Factor
+[2026-05-03 07:21:25.213][main][info] Starting enabled integrations
+[2026-05-03 07:21:25.215][main][info] Integration enabled: Custom CSS
+[2026-05-03 07:21:25.215][main][info] Integration enabled: Ratio volume
+[2026-05-03 07:21:26.112][main][warn] (electron) 'console-message' arguments are deprecated and will be removed. Please use Event<WebContentsConsoleMessageEventParams> object instead.
+[2026-05-03 07:21:26.112][renderer][info] LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.
+[2026-05-03 07:21:50.360][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-03 07:21:50.362][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-03 07:21:50.363][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-03 07:32:29.365][renderer][info] manipulated volume from 1.00 to   1.00 0
+[2026-05-03 07:35:42.962][renderer][info] manipulated volume from 1.00 to   1.00 0
+[2026-05-03 07:39:22.743][renderer][info] manipulated volume from 0.63 to   0.86 0
+[2026-05-03 08:16:09.414][main][info] Application quitting
+
+
+[2026-05-03 10:18:51.012][main][info] Application launched
+[2026-05-03 10:18:51.043][main][info] Application set as default protcol client for 'ytmd'
+[2026-05-03 10:18:51.067][main][info] Created memory store
+[2026-05-03 10:18:51.074][main][info] Created electron store
+[2026-05-03 10:18:51.147][main][info] Application ready
+[2026-05-03 10:18:51.152][main][info] Setup IPC handlers
+[2026-05-03 10:18:51.154][main][info] Setup permission handlers
+[2026-05-03 10:18:51.155][main][info] Unregistered shortcuts
+[2026-05-03 10:18:51.155][main][info] Registered shortcuts
+[2026-05-03 10:18:51.160][main][info] Created tray icon
+[2026-05-03 10:18:51.191][main][info] Created main window
+[2026-05-03 10:18:51.199][main][info] Created YTM view
+[2026-05-03 10:18:51.216][main][info] Setup taskbar features
+[2026-05-03 10:18:51.216][main][info] Integration update: Zoom Factor
+[2026-05-03 10:18:51.216][main][info] Starting enabled integrations
+[2026-05-03 10:18:51.217][main][info] Integration enabled: Custom CSS
+[2026-05-03 10:18:51.217][main][info] Integration enabled: Ratio volume
+[2026-05-03 10:18:51.859][main][warn] (electron) 'console-message' arguments are deprecated and will be removed. Please use Event<WebContentsConsoleMessageEventParams> object instead.
+[2026-05-03 10:18:51.859][renderer][info] LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.
+[2026-05-03 10:19:08.263][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-03 10:19:08.420][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-03 10:19:08.420][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-03 10:48:51.343][renderer][info] manipulated volume from 1.00 to   1.00 0
+[2026-05-03 11:07:16.391][renderer][info] manipulated volume from 1.00 to   1.00 0
+[2026-05-03 11:07:18.192][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-03 11:07:20.237][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-03 11:07:22.771][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-03 11:07:22.788][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-03 11:07:26.305][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-03 11:08:26.417][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-03 11:09:26.521][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-03 11:10:26.634][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-03 11:11:04.776][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-03 11:11:04.929][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-03 11:11:04.938][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-03 11:11:04.954][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-03 11:11:04.962][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-03 11:11:05.033][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-03 11:11:05.042][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-03 11:11:05.053][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-03 11:11:05.066][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-03 11:11:05.074][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-03 11:11:05.127][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-03 11:11:05.136][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-03 11:11:05.144][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-03 11:11:05.153][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-03 11:11:14.410][renderer][info] manipulated volume from 1.00 to   1.00 0
+[2026-05-03 11:37:40.954][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-03 11:37:41.012][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-03 11:37:48.026][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-03 11:37:55.346][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-03 11:37:55.469][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-03 11:37:59.066][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-03 11:49:35.796][renderer][info] manipulated volume from 1.00 to   1.00 0
+[2026-05-03 12:01:05.091][renderer][info] manipulated volume from 1.00 to   1.00 0
+[2026-05-03 13:00:31.447][main][info] Application quitting
+
+
+[2026-05-03 13:54:35.699][main][info] Application launched
+[2026-05-03 13:54:35.726][main][info] Application set as default protcol client for 'ytmd'
+[2026-05-03 13:54:35.750][main][info] Created memory store
+[2026-05-03 13:54:35.758][main][info] Created electron store
+[2026-05-03 13:54:35.832][main][info] Application ready
+[2026-05-03 13:54:35.837][main][info] Setup IPC handlers
+[2026-05-03 13:54:35.839][main][info] Setup permission handlers
+[2026-05-03 13:54:35.840][main][info] Unregistered shortcuts
+[2026-05-03 13:54:35.840][main][info] Registered shortcuts
+[2026-05-03 13:54:35.844][main][info] Created tray icon
+[2026-05-03 13:54:35.871][main][info] Created main window
+[2026-05-03 13:54:35.878][main][info] Created YTM view
+[2026-05-03 13:54:35.879][main][info] Setup taskbar features
+[2026-05-03 13:54:35.879][main][info] Integration update: Zoom Factor
+[2026-05-03 13:54:35.879][main][info] Starting enabled integrations
+[2026-05-03 13:54:35.880][main][info] Integration enabled: Custom CSS
+[2026-05-03 13:54:35.880][main][info] Integration enabled: Ratio volume
+[2026-05-03 13:54:36.587][main][warn] (electron) 'console-message' arguments are deprecated and will be removed. Please use Event<WebContentsConsoleMessageEventParams> object instead.
+[2026-05-03 13:54:36.588][renderer][info] LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.
+[2026-05-03 13:54:54.557][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-03 13:54:54.558][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-03 13:54:54.559][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-03 14:04:42.654][main][info] Application quitting
+
+
+[2026-05-03 14:50:30.605][main][info] Application launched
+[2026-05-03 14:50:30.646][main][info] Application set as default protcol client for 'ytmd'
+[2026-05-03 14:50:30.683][main][info] Created memory store
+[2026-05-03 14:50:30.692][main][info] Created electron store
+[2026-05-03 14:50:30.806][main][info] Application ready
+[2026-05-03 14:50:30.812][main][info] Setup IPC handlers
+[2026-05-03 14:50:30.815][main][info] Setup permission handlers
+[2026-05-03 14:50:30.816][main][info] Unregistered shortcuts
+[2026-05-03 14:50:30.817][main][info] Registered shortcuts
+[2026-05-03 14:50:30.823][main][info] Created tray icon
+[2026-05-03 14:50:30.860][main][info] Created main window
+[2026-05-03 14:50:30.867][main][info] Created YTM view
+[2026-05-03 14:50:30.868][main][info] Setup taskbar features
+[2026-05-03 14:50:30.868][main][info] Integration update: Zoom Factor
+[2026-05-03 14:50:30.869][main][info] Starting enabled integrations
+[2026-05-03 14:50:30.880][main][info] Integration enabled: Custom CSS
+[2026-05-03 14:50:30.881][main][info] Integration enabled: Ratio volume
+[2026-05-03 14:50:31.955][main][warn] (electron) 'console-message' arguments are deprecated and will be removed. Please use Event<WebContentsConsoleMessageEventParams> object instead.
+[2026-05-03 14:50:31.955][renderer][info] LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.
+[2026-05-03 14:50:44.996][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-03 14:50:45.015][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-03 14:50:45.015][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-03 15:02:43.303][main][error] Electron event App#child-process-gone observed {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+[2026-05-03 17:44:28.739][main][info] Application launched
+[2026-05-03 17:44:28.778][main][info] Application set as default protcol client for 'ytmd'
+[2026-05-03 17:44:28.806][main][info] Created memory store
+[2026-05-03 17:44:28.813][main][info] Created electron store
+[2026-05-03 17:44:28.904][main][info] Application ready
+[2026-05-03 17:44:28.907][main][info] Setup IPC handlers
+[2026-05-03 17:44:28.911][main][info] Setup permission handlers
+[2026-05-03 17:44:28.912][main][info] Unregistered shortcuts
+[2026-05-03 17:44:28.912][main][info] Registered shortcuts
+[2026-05-03 17:44:28.918][main][info] Created tray icon
+[2026-05-03 17:44:28.951][main][info] Created main window
+[2026-05-03 17:44:28.963][main][info] Created YTM view
+[2026-05-03 17:44:28.964][main][info] Setup taskbar features
+[2026-05-03 17:44:28.964][main][info] Integration update: Zoom Factor
+[2026-05-03 17:44:28.964][main][info] Starting enabled integrations
+[2026-05-03 17:44:28.965][main][info] Integration enabled: Custom CSS
+[2026-05-03 17:44:28.966][main][info] Integration enabled: Ratio volume
+[2026-05-03 17:44:32.636][main][warn] (electron) 'console-message' arguments are deprecated and will be removed. Please use Event<WebContentsConsoleMessageEventParams> object instead.
+[2026-05-03 17:44:32.636][renderer][info] LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.
+[2026-05-03 17:44:54.076][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-03 17:44:54.118][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-03 17:44:54.119][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-03 17:59:59.808][renderer][info] manipulated volume from 1.00 to   1.00 0
+[2026-05-03 18:03:28.983][renderer][info] manipulated volume from 1.00 to   1.00 0
+[2026-05-03 18:07:57.020][main][info] Application quitting
+
+
+[2026-05-03 19:04:10.098][main][info] Application launched
+[2026-05-03 19:04:10.129][main][info] Application set as default protcol client for 'ytmd'
+[2026-05-03 19:04:10.154][main][info] Created memory store
+[2026-05-03 19:04:10.161][main][info] Created electron store
+[2026-05-03 19:04:10.265][main][info] Application ready
+[2026-05-03 19:04:10.270][main][info] Setup IPC handlers
+[2026-05-03 19:04:10.272][main][info] Setup permission handlers
+[2026-05-03 19:04:10.273][main][info] Unregistered shortcuts
+[2026-05-03 19:04:10.273][main][info] Registered shortcuts
+[2026-05-03 19:04:10.278][main][info] Created tray icon
+[2026-05-03 19:04:10.302][main][info] Created main window
+[2026-05-03 19:04:10.309][main][info] Created YTM view
+[2026-05-03 19:04:10.309][main][info] Setup taskbar features
+[2026-05-03 19:04:10.309][main][info] Integration update: Zoom Factor
+[2026-05-03 19:04:10.310][main][info] Starting enabled integrations
+[2026-05-03 19:04:10.311][main][info] Integration enabled: Custom CSS
+[2026-05-03 19:04:10.337][main][info] Integration enabled: Ratio volume
+[2026-05-03 19:04:14.854][main][warn] (electron) 'console-message' arguments are deprecated and will be removed. Please use Event<WebContentsConsoleMessageEventParams> object instead.
+[2026-05-03 19:04:14.855][renderer][info] LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.
+[2026-05-03 19:04:25.226][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-03 19:04:25.267][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-03 19:04:25.267][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-03 19:19:37.668][main][info] Application quitting
+
+
+[2026-05-04 08:21:12.375][main][info] Application launched
+[2026-05-04 08:21:12.408][main][info] Application set as default protcol client for 'ytmd'
+[2026-05-04 08:21:12.431][main][info] Created memory store
+[2026-05-04 08:21:12.440][main][info] Created electron store
+[2026-05-04 08:21:12.527][main][info] Application ready
+[2026-05-04 08:21:12.532][main][info] Setup IPC handlers
+[2026-05-04 08:21:12.534][main][info] Setup permission handlers
+[2026-05-04 08:21:12.536][main][info] Unregistered shortcuts
+[2026-05-04 08:21:12.536][main][info] Registered shortcuts
+[2026-05-04 08:21:12.542][main][info] Created tray icon
+[2026-05-04 08:21:12.584][main][info] Created main window
+[2026-05-04 08:21:12.596][main][info] Created YTM view
+[2026-05-04 08:21:12.597][main][info] Setup taskbar features
+[2026-05-04 08:21:12.597][main][info] Integration update: Zoom Factor
+[2026-05-04 08:21:12.597][main][info] Starting enabled integrations
+[2026-05-04 08:21:12.599][main][info] Integration enabled: Custom CSS
+[2026-05-04 08:21:12.599][main][info] Integration enabled: Ratio volume
+[2026-05-04 08:21:16.211][main][warn] (electron) 'console-message' arguments are deprecated and will be removed. Please use Event<WebContentsConsoleMessageEventParams> object instead.
+[2026-05-04 08:21:16.211][renderer][info] LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.
+[2026-05-04 08:21:36.926][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-04 08:21:36.967][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-04 08:21:36.968][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-04 08:42:42.579][main][info] Application quitting
+
+
+[2026-05-04 09:43:48.496][main][info] Application launched
+[2026-05-04 09:43:48.526][main][info] Application set as default protcol client for 'ytmd'
+[2026-05-04 09:43:48.550][main][info] Created memory store
+[2026-05-04 09:43:48.559][main][info] Created electron store
+[2026-05-04 09:43:48.632][main][info] Application ready
+[2026-05-04 09:43:48.637][main][info] Setup IPC handlers
+[2026-05-04 09:43:48.639][main][info] Setup permission handlers
+[2026-05-04 09:43:48.640][main][info] Unregistered shortcuts
+[2026-05-04 09:43:48.640][main][info] Registered shortcuts
+[2026-05-04 09:43:48.645][main][info] Created tray icon
+[2026-05-04 09:43:48.670][main][info] Created main window
+[2026-05-04 09:43:48.678][main][info] Created YTM view
+[2026-05-04 09:43:48.679][main][info] Setup taskbar features
+[2026-05-04 09:43:48.679][main][info] Integration update: Zoom Factor
+[2026-05-04 09:43:48.679][main][info] Starting enabled integrations
+[2026-05-04 09:43:48.680][main][info] Integration enabled: Custom CSS
+[2026-05-04 09:43:48.681][main][info] Integration enabled: Ratio volume
+[2026-05-04 09:43:50.762][main][warn] (electron) 'console-message' arguments are deprecated and will be removed. Please use Event<WebContentsConsoleMessageEventParams> object instead.
+[2026-05-04 09:43:50.763][renderer][info] LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.
+[2026-05-04 09:44:34.857][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-04 09:44:34.910][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-04 09:44:34.910][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-04 10:19:09.986][renderer][info] manipulated volume from 1.00 to   1.00 0
+[2026-05-04 10:23:13.816][renderer][info] manipulated volume from 1.00 to   1.00 0
+[2026-05-04 10:26:09.370][renderer][error] Uncaught Error: PlayerProxy error when creating global callback
+[2026-05-04 10:28:56.693][main][info] Application quitting
+
+
+[2026-05-04 19:17:20.773][main][info] Application launched
+[2026-05-04 19:17:20.802][main][info] Application set as default protcol client for 'ytmd'
+[2026-05-04 19:17:20.824][main][info] Created memory store
+[2026-05-04 19:17:20.832][main][info] Created electron store
+[2026-05-04 19:17:20.918][main][info] Application ready
+[2026-05-04 19:17:20.922][main][info] Setup IPC handlers
+[2026-05-04 19:17:20.925][main][info] Setup permission handlers
+[2026-05-04 19:17:20.926][main][info] Unregistered shortcuts
+[2026-05-04 19:17:20.926][main][info] Registered shortcuts
+[2026-05-04 19:17:20.931][main][info] Created tray icon
+[2026-05-04 19:17:21.001][main][info] Created main window
+[2026-05-04 19:17:21.066][main][info] Created YTM view
+[2026-05-04 19:17:21.068][main][info] Setup taskbar features
+[2026-05-04 19:17:21.068][main][info] Integration update: Zoom Factor
+[2026-05-04 19:17:21.069][main][info] Starting enabled integrations
+[2026-05-04 19:17:21.074][main][info] Integration enabled: Custom CSS
+[2026-05-04 19:17:21.074][main][info] Integration enabled: Ratio volume
+[2026-05-04 19:17:22.594][main][warn] (electron) 'console-message' arguments are deprecated and will be removed. Please use Event<WebContentsConsoleMessageEventParams> object instead.
+[2026-05-04 19:17:22.594][renderer][info] LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.
+[2026-05-04 19:17:40.158][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-04 19:17:40.192][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-04 19:17:40.192][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-04 19:30:56.753][renderer][info] manipulated volume from 1.00 to   1.00 0
+[2026-05-04 20:08:20.170][main][info] Application quitting
+
+
+[2026-05-05 09:00:07.844][main][info] Application launched
+[2026-05-05 09:00:07.876][main][info] Application set as default protcol client for 'ytmd'
+[2026-05-05 09:00:07.903][main][info] Created memory store
+[2026-05-05 09:00:07.909][main][info] Created electron store
+[2026-05-05 09:00:07.998][main][info] Application ready
+[2026-05-05 09:00:08.002][main][info] Setup IPC handlers
+[2026-05-05 09:00:08.004][main][info] Setup permission handlers
+[2026-05-05 09:00:08.005][main][info] Unregistered shortcuts
+[2026-05-05 09:00:08.005][main][info] Registered shortcuts
+[2026-05-05 09:00:08.010][main][info] Created tray icon
+[2026-05-05 09:00:08.037][main][info] Created main window
+[2026-05-05 09:00:08.045][main][info] Created YTM view
+[2026-05-05 09:00:08.046][main][info] Setup taskbar features
+[2026-05-05 09:00:08.046][main][info] Integration update: Zoom Factor
+[2026-05-05 09:00:08.046][main][info] Starting enabled integrations
+[2026-05-05 09:00:08.048][main][info] Integration enabled: Custom CSS
+[2026-05-05 09:00:08.048][main][info] Integration enabled: Ratio volume
+[2026-05-05 09:00:12.672][main][warn] (electron) 'console-message' arguments are deprecated and will be removed. Please use Event<WebContentsConsoleMessageEventParams> object instead.
+[2026-05-05 09:00:12.673][renderer][info] LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.
+[2026-05-05 09:00:44.661][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-05 09:00:44.704][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-05 09:00:44.704][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-05 09:04:49.283][renderer][info] manipulated volume from 1.00 to   1.00 0
+[2026-05-05 09:09:41.875][renderer][info] manipulated volume from 1.00 to   1.00 0
+[2026-05-05 09:19:47.111][renderer][info] manipulated volume from 1.00 to   1.00 0
+[2026-05-05 09:32:45.625][renderer][info] manipulated volume from 1.00 to   1.00 0
+[2026-05-05 10:19:26.798][renderer][info] manipulated volume from 1.00 to   1.00 0
+[2026-05-05 10:52:14.616][main][info] Application quitting
+
+
+[2026-05-05 12:57:13.764][main][info] Application launched
+[2026-05-05 12:57:13.799][main][info] Application set as default protcol client for 'ytmd'
+[2026-05-05 12:57:13.820][main][info] Created memory store
+[2026-05-05 12:57:13.827][main][info] Created electron store
+[2026-05-05 12:57:13.918][main][info] Application ready
+[2026-05-05 12:57:13.924][main][info] Setup IPC handlers
+[2026-05-05 12:57:13.927][main][info] Setup permission handlers
+[2026-05-05 12:57:13.928][main][info] Unregistered shortcuts
+[2026-05-05 12:57:13.928][main][info] Registered shortcuts
+[2026-05-05 12:57:13.933][main][info] Created tray icon
+[2026-05-05 12:57:13.963][main][info] Created main window
+[2026-05-05 12:57:13.972][main][info] Created YTM view
+[2026-05-05 12:57:13.973][main][info] Setup taskbar features
+[2026-05-05 12:57:13.973][main][info] Integration update: Zoom Factor
+[2026-05-05 12:57:13.973][main][info] Starting enabled integrations
+[2026-05-05 12:57:13.974][main][info] Integration enabled: Custom CSS
+[2026-05-05 12:57:13.975][main][info] Integration enabled: Ratio volume
+[2026-05-05 12:57:17.413][main][warn] (electron) 'console-message' arguments are deprecated and will be removed. Please use Event<WebContentsConsoleMessageEventParams> object instead.
+[2026-05-05 12:57:17.413][renderer][info] LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.
+[2026-05-05 12:57:18.219][main][info] Application quitting
+
+
+[2026-05-05 15:22:32.651][main][info] Application launched
+[2026-05-05 15:22:32.683][main][info] Application set as default protcol client for 'ytmd'
+[2026-05-05 15:22:32.705][main][info] Created memory store
+[2026-05-05 15:22:32.714][main][info] Created electron store
+[2026-05-05 15:22:32.795][main][info] Application ready
+[2026-05-05 15:22:32.799][main][info] Setup IPC handlers
+[2026-05-05 15:22:32.801][main][info] Setup permission handlers
+[2026-05-05 15:22:32.801][main][info] Unregistered shortcuts
+[2026-05-05 15:22:32.802][main][info] Registered shortcuts
+[2026-05-05 15:22:32.806][main][info] Created tray icon
+[2026-05-05 15:22:32.830][main][info] Created main window
+[2026-05-05 15:22:32.836][main][info] Created YTM view
+[2026-05-05 15:22:32.837][main][info] Setup taskbar features
+[2026-05-05 15:22:32.837][main][info] Integration update: Zoom Factor
+[2026-05-05 15:22:32.837][main][info] Starting enabled integrations
+[2026-05-05 15:22:32.837][main][info] Integration enabled: Custom CSS
+[2026-05-05 15:22:32.838][main][info] Integration enabled: Ratio volume
+[2026-05-05 15:22:35.676][main][warn] (electron) 'console-message' arguments are deprecated and will be removed. Please use Event<WebContentsConsoleMessageEventParams> object instead.
+[2026-05-05 15:22:35.677][renderer][info] LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.
+[2026-05-05 15:22:46.268][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-05 15:22:46.269][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-05 15:22:46.270][renderer][error] requestStorageAccessFor: Permission denied.
+[2026-05-05 15:22:57.388][main][info] Application quitting
+
+

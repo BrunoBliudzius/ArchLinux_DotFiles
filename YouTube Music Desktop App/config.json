@@ -1,0 +1,69 @@
+{
+	"metadata": {
+		"version": 1
+	},
+	"general": {
+		"disableHardwareAcceleration": false,
+		"hideToTrayOnClose": false,
+		"showNotificationOnSongChange": false,
+		"startOnBoot": false,
+		"startMinimized": false
+	},
+	"appearance": {
+		"alwaysShowVolumeSlider": false,
+		"customCSSEnabled": true,
+		"customCSSPath": "/home/bruno/.config/YouTube Music Desktop App/ytbConfig/config.css",
+		"zoom": 100,
+		"trayIconStyle": 1
+	},
+	"playback": {
+		"continueWhereYouLeftOff": true,
+		"continueWhereYouLeftOffPaused": true,
+		"enableSpeakerFill": false,
+		"progressInTaskbar": true,
+		"ratioVolume": true
+	},
+	"integrations": {
+		"companionServerEnabled": false,
+		"companionServerAuthTokens": null,
+		"companionServerCORSWildcardEnabled": false,
+		"discordPresenceEnabled": false,
+		"lastFMEnabled": false
+	},
+	"shortcuts": {
+		"playPause": "",
+		"next": "",
+		"previous": "",
+		"thumbsUp": "",
+		"thumbsDown": "",
+		"volumeUp": "",
+		"volumeDown": ""
+	},
+	"state": {
+		"lastUrl": "https://music.youtube.com/watch?v=0u-aB3rfzLU&list=PLQESx8W6XoTPol1mGseArhFVW1dDFDgTC",
+		"lastPlaylistId": "PLQESx8W6XoTPol1mGseArhFVW1dDFDgTC",
+		"lastVideoId": "2048Nr6aLiQ",
+		"windowBounds": {
+			"x": 0,
+			"y": 0,
+			"width": 1438,
+			"height": 856
+		},
+		"windowMaximized": true
+	},
+	"lastfm": {
+		"api_key": "2a69bcf769a7a28a8bf2f6a5100accad",
+		"secret": "46eea23770a459a49eb4d26cbf46b41c",
+		"token": null,
+		"sessionKey": null,
+		"scrobblePercent": 50
+	},
+	"developer": {
+		"enableDevTools": false
+	},
+	"__internal__": {
+		"migrations": {
+			"version": "2.0.11"
+		}
+	}
+}

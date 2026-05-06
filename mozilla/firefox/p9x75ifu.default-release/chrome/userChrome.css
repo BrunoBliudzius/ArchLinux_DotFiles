@@ -1,0 +1,124 @@
+/* ==========================================================
+   FIREFOX APEX: INVERNO PROFUNDO (GLACIAL & VIBRANTE)
+========================================================== */
+
+:root {
+  /* Fundo da noite de inverno (Azul escuro profundo) */
+  --bg-pure: #0B1221;
+  --bg-alt: #15233E;
+
+  /* Destaques em Azul Gelo Vibrante */
+  --ice-blue: #4DFFFF;
+  --ice-blue-dim: rgba(77, 255, 255, 0.18);
+
+  /* Textos muito mais claros e legíveis */
+  --fg-muted: #A3B8CC;
+  /* Azul acinzentado claro para itens inativos */
+  --fg-bright: #FFFFFF;
+  /* Branco neve puro */
+
+  --font-primary: "JetBrainsMono Nerd Font", monospace;
+}
+
+/* 1. O VAZIO DE INVERNO (Remoção total de bordas) */
+#navigator-toolbox,
+#TabsToolbar,
+#nav-bar,
+#PersonalToolbar,
+#urlbar-background {
+  background-color: var(--bg-pure) !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* 2. BARRA DE URL MÁGICA (Texto centralizado e claro) */
+#urlbar {
+  font-family: var(--font-primary) !important;
+  text-align: center !important;
+}
+
+/* Texto do link inativo agora é branco gelo (muito mais claro) */
+#urlbar-input {
+  text-align: center !important;
+  color: var(--fg-bright) !important;
+  transition: color 0.3s ease !important;
+}
+
+/* Acende em azul glacial vibrante quando você vai digitar */
+#urlbar[focused="true"] #urlbar-input {
+  color: var(--ice-blue) !important;
+  font-weight: bold !important;
+}
+
+/* A barra é invisível e surge como pílula ao passar o mouse */
+#urlbar-background {
+  border-radius: 50px !important;
+  background-color: transparent !important;
+  border: 1px solid transparent !important;
+  transition: all 0.3s ease !important;
+}
+
+#urlbar:hover>#urlbar-background,
+#urlbar[focused="true"]>#urlbar-background {
+  background-color: var(--bg-alt) !important;
+  border: 1px solid var(--ice-blue-dim) !important;
+}
+
+/* Limpeza extrema da barra de ferramentas */
+#page-action-buttons,
+#tracking-protection-icon-container,
+#identity-box {
+  display: none !important;
+}
+
+/* 3. ABAS ESTILO PÍLULA GLACIAL */
+.tabbrowser-tab {
+  font-family: var(--font-primary) !important;
+}
+
+/* Forma da aba */
+.tab-background {
+  border-radius: 20px !important;
+  margin: 4px 6px !important;
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  transition: background-color 0.2s ease !important;
+}
+
+/* Aba inativa (Texto claro para leitura perfeita) */
+.tabbrowser-tab:not([selected="true"]) .tab-content {
+  color: var(--fg-muted) !important;
+}
+
+/* Aba ativa (Fundo azul suave e texto azul vibrante brilhante) */
+.tabbrowser-tab[selected="true"] .tab-background {
+  background-color: var(--ice-blue-dim) !important;
+}
+
+.tabbrowser-tab[selected="true"] .tab-content {
+  color: var(--ice-blue) !important;
+  font-weight: bold !important;
+}
+
+/* Remove a linha nativa das abas */
+.tab-line,
+.tab-bottom-line {
+  display: none !important;
+}
+
+/* 4. ESCONDENDO A BAGUNÇA DA INTERFACE NATIVA */
+/* Remove o botão de "+" para nova aba (Use Ctrl+T) */
+#tabs-newtab-button {
+  display: none !important;
+}
+
+/* Remove botões de fechar, minimizar e maximizar */
+.titlebar-buttonbox-container {
+  display: none !important;
+}
+
+/* Remove a linha divisória inferior da barra de ferramentas */
+#navigator-toolbox::after {
+  display: none !important;
+}

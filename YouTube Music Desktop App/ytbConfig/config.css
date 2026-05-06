@@ -1,0 +1,67 @@
+/* ==========================================================
+   YOUTUBE MUSIC: WINTER EDITION (GLACIAL & CLEAN)
+========================================================== */
+
+:root {
+    --bg-deep: #0B1221;         /* Azul Meia-Noite */
+    --bg-glass: rgba(21, 35, 62, 0.8); 
+    --ice-blue: #4DFFFF;        /* Ciano Vibrante */
+    --ice-text: #A3B8CC;        /* Azul Acinzentado */
+    --white-snow: #FFFFFF;
+}
+
+/* 1. FUNDO GERAL */
+ytmusic-app, 
+ytmusic-app-layout, 
+background-color {
+    background: var(--bg-deep) !important;
+}
+
+/* 2. PLAYER BAR (BARRA INFERIOR) */
+ytmusic-player-bar {
+    background: var(--bg-glass) !important;
+    backdrop-filter: blur(10px); /* Efeito de vidro */
+    border-top: 1px solid rgba(77, 255, 255, 0.1) !important;
+}
+
+/* 3. PROGRESS BAR (BARRA DE REPRODUÇÃO) */
+#progress-bar.ytmusic-player-bar {
+    --paper-slider-active-color: var(--ice-blue) !important;
+    --paper-slider-knob-color: var(--ice-blue) !important;
+    --paper-slider-container-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+/* 4. TEXTOS E TÍTULOS */
+ytmusic-player-bar .title {
+    color: var(--white-snow) !important;
+    font-family: "JetBrainsMono Nerd Font" !important;
+}
+
+ytmusic-player-bar .byline {
+    color: var(--ice-text) !important;
+}
+
+/* 5. BOTÕES DE CONTROLE */
+.play-pause-button.ytmusic-player-bar,
+.next-button.ytmusic-player-bar,
+.previous-button.ytmusic-player-bar {
+    color: var(--ice-blue) !important;
+}
+
+/* 6. BARRA DE PESQUISA */
+ytmusic-search-box {
+    --ytmusic-search-background: rgba(255, 255, 255, 0.05) !important;
+    border-radius: 50px !important;
+    border: 1px solid rgba(77, 255, 255, 0.2) !important;
+}
+
+/* 7. REMOVER GRADIENTES ESCUROS CHATOS */
+.gradient-overlay {
+    display: none !important;
+}
+
+/* 8. SELEÇÃO DE ITENS (HOVER) */
+ytmusic-guide-entry-renderer[active] {
+    background-color: rgba(77, 255, 255, 0.1) !important;
+    border-right: 3px solid var(--ice-blue) !important;
+}
